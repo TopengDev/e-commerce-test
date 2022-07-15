@@ -1,0 +1,16 @@
+.tc{
+    /* color: white; */
+    height: 100vh;
+    background-color: #eeeef1;
+    border-radius: 750px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.x{
+    width: 150px;
+}
+.text, .text404{
+    font-size: 2.8em;
+}
